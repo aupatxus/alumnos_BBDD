@@ -1,6 +1,21 @@
 # alumnos_BBDD
 alumnos_BBDD
 
+## Estructura del Repositorio
+
+```text
+├── data/      # Archivos CSV originales (datos en bruto)
+│              # Las 10 tablas normalizadas exportadas a CSV
+│              
+└── README.md
+└── 1_proyectoBBDD_modelo_logico_diseño_relacional.md
+└── 2_generación_tablas_csv_despliegue.ipynb
+└── 3_creacion_tablas.sql
+└── 4_Entidad_Relacion_alumnoBBDD.pgerd
+└── 5_ERD.png
+
+```
+
 <img src="https://raw.githubusercontent.com/aupatxus/alumnos_BBDD/refs/heads/main/5_ERD.png">
 
 ## Modelo Entidad-Relación (E/R)
