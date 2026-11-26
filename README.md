@@ -52,24 +52,7 @@ La base de datos está normalizada en **Tercera Forma Normal (3FN)** y consta de
 | **`calificaciones`** | `(id_estudiante, id_proyecto)` | `id_estudiante`, `id_proyecto` | Resultados (`Apto` / `No Apto`) de cada alumno por proyecto. |
 
 
-```text
-  [CAMPUS] ────────(1:N)────────┐
-                                 ▼
-  [PROMOCIONES] ───(1:N)───► [EDICION] ◄───(1:N)─── [BOOTCAMP]
-                                 │                       │
-                               (1:N)                   (1:N)
-                                 ▼                       ▼
-  [MODALIDADES] ───(1:N)───► [ESTUDIANTES]           [PROYECTOS]
-                                 │                       │
-                                 └──────► (N:M) ◄────────┘
-                                     [calificaciones]
 
-  [PROFESORES] ────(1:1)───► [ASIGNACION_CLAUSTRO]
-                                 ▲   ▲   ▲   ▲
-       ┌─────────────────────────┘   │   │   └─────────────────────────┐
-     (1:N)                         (1:N) (1:N)                       (1:N)
-  [CAMPUS]                 [PROMOCIONES] [BOOTCAMP]              [MODALIDADES]
-```
 
 1. campus: 
     * id_campus (PK)
