@@ -18,10 +18,11 @@ https://github.com/aupatxus/alumnos_BBDD/
 └── 6_diagrama_relacional.png
 
 ```
-
-<img src="https://raw.githubusercontent.com/aupatxus/alumnos_BBDD/refs/heads/main/5_ERD.png">
+## Diagrama Relacional
+<img src="https://raw.githubusercontent.com/aupatxus/alumnos_BBDD/refs/heads/main/6_diagrama_relacional.png">
 
 ## Modelo Entidad-Relación (E/R)
+<img src="https://raw.githubusercontent.com/aupatxus/alumnos_BBDD/refs/heads/main/5_ERD.png">
 
 * CAMPUS (1 a N) EDICION: Un campus alberga muchas ediciones; una edición ocurre en un único campus.
 * PROMOCIONES (1 a N) EDICION: Una promoción (convocatoria) tiene varias ediciones; una edición pertenece a una promoción.
