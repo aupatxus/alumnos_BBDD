@@ -18,6 +18,8 @@ https://github.com/aupatxus/alumnos_BBDD/
 └── 6_diagrama_relacional.png
 
 ```
+
+
 ## Diagrama Relacional
 <img src="https://raw.githubusercontent.com/aupatxus/alumnos_BBDD/refs/heads/main/6_diagrama_relacional.png">
 
