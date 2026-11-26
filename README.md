@@ -1,6 +1,7 @@
 # alumnos_BBDD
 alumnos_BBDD
 
+<img src="https://raw.githubusercontent.com/aupatxus/alumnos_BBDD/refs/heads/main/5_ERD.png">
 
 ## Modelo Entidad-Relación (E/R)
 ```text
