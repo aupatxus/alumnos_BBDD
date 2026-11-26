@@ -4,12 +4,16 @@ alumnos_BBDD
 ## Estructura del Repositorio
 
 ```text
+https://github.com/aintzaizea
+https://github.com/oliver-des
+https://github.com/Rakel2026
 https://github.com/aupatxus/alumnos_BBDD/
 │
 ├── data/      # Archivos CSV originales (datos en bruto)
 │              # Las 10 tablas normalizadas exportadas a CSV
 │              
 └── README.md
+│              
 └── 1_proyectoBBDD_modelo_logico_diseño_relacional.md
 └── 2_generación_tablas_csv_despliegue.ipynb
 └── 3_creacion_tablas.sql
