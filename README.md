@@ -20,6 +20,7 @@ https://github.com/aupatxus/alumnos_BBDD/
 └── 4_Entidad_Relacion_alumnoBBDD.pgerd
 └── 5_ERD.png
 └── 6_diagrama_relacional.png
+└── 7_Presentación.pdf
 
 ```
 
