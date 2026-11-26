@@ -1,0 +1,11 @@
+id_proyecto,id_bootcamp,nombre
+0,0,Proyecto_HLF
+1,0,Proyecto_EDA
+2,0,Proyecto_BBDD
+3,0,Proyecto_ML
+4,0,Proyecto_Deployment
+5,1,Proyecto_WebDev
+6,1,Proyecto_FrontEnd
+7,1,Proyecto_Backend
+8,1,Proyecto_React
+9,1,Proyecto_FullSatck
