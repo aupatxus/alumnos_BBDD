@@ -4,6 +4,8 @@ alumnos_BBDD
 ## Estructura del Repositorio
 
 ```text
+https://github.com/aupatxus/alumnos_BBDD/
+│
 ├── data/      # Archivos CSV originales (datos en bruto)
 │              # Las 10 tablas normalizadas exportadas a CSV
 │              
@@ -13,6 +15,7 @@ alumnos_BBDD
 └── 3_creacion_tablas.sql
 └── 4_Entidad_Relacion_alumnoBBDD.pgerd
 └── 5_ERD.png
+└── 6_diagrama_relacional.png
 
 ```
 
